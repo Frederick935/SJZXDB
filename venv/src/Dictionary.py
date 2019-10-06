@@ -61,7 +61,7 @@ print("dict['Name']: ", dict['Name'])
 >>> type(dict)
 <class 'dict'>
 """
-# Python字典包含了一下内置方法
+# Python 字典包含了以下内置方法
 """
 1	radiansdict.clear()
 删除字典内所有元素
